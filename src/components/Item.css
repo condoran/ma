@@ -1,0 +1,15 @@
+.card {
+    display: flex;
+    justify-content: space-around;
+    width: 100%;
+    align-items: center;
+}
+
+.item-details {
+    padding-left: 0px;
+}
+
+.item-button {
+    margin-left: 0px;
+    font-size: 10px;
+}

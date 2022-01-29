@@ -1,0 +1,27 @@
+form {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-content: center;
+    height: 80%;
+}
+
+input[type=text] {
+    width: 300px;
+    height: 40px;
+}
+
+form div {
+    margin: auto;
+}
+
+label {
+    width: 100%;
+    display: block;
+    margin-bottom: 10px;
+    font-size: 20px;
+}
+
+.form{
+    height: 90%;
+}
